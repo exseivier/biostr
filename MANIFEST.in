@@ -1,0 +1,9 @@
+include biostr/biostruct/Makefile
+include biostr/biostruct/lib/biostr.c
+include biostr/biostruct/lib/biostr.h
+include biostr/biostruct/lib/fileio.c
+include biostr/biostruct/lib/fileio.h
+include biostr/biostruct/lib/linked_list.c
+include biostr/biostruct/lib/linked_list.h
+include biostr/biostruct/libdnah.so
+include biostr/Makefile
